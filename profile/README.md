@@ -2,7 +2,7 @@
 
 Hello everyone. Github is broken and has been for a while now ( [rfc2460](https://datatracker.ietf.org/doc/html/rfc2460) It only exists since 1998...).
 
-````shell
+```shell
 dig -t AAAA github.com
 
 ;; OPT PSEUDOSECTION:
